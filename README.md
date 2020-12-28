@@ -1,4 +1,8 @@
-# Hello everyone! 👋
+# Jean Clark
+
+📫 [LinkedIn](https://www.linkedin.com/in/jean-clark-data-analyst/) | [Mail](mailto:jeanclark.pro@gmail.com)
+
+## Hello everyone! 👋
 
 My name is Jean Clark, I am a 22 years old French/British economist with some strong data science skills (I still have a lot to learn though). I am experienced with R, Python, machine learning and also VBA.
 
@@ -14,9 +18,7 @@ My name is Jean Clark, I am a 22 years old French/British economist with some st
 
 I am currently expanding my Python skills with a webscraping project on housing data for the Banque of France
 
-## 📫 Contact me 
 
- [LinkedIn](https://www.linkedin.com/in/jean-clark-data-analyst/) | [Mail](jeanclark.pro@gmail.com)
 
 <!--
 **JClark-economist/JClark-economist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
