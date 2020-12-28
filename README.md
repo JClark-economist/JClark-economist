@@ -4,7 +4,10 @@ My name is Jean Clark, I am a 22 years old French/British economist with some st
 
 ## 🌱 What do I do?
 
-* ✔️ Having graduated from a Bachelor degree in Economics at the University of Tours, I am currently pursuing a Master degree in Business Economics with a strong data science component (Master Mécen) and with an expected graduation in September 2021.
+* ✔️ Having graduated from a Bachelor's degree in Economics at the University of Tours, I am currently pursuing a Master's degree in Business Economics with a strong data science component (Master Mécen) and with an expected graduation in September 2021.
+* ✔️ With my fellow classmates from university we created a student managed company, the Junior Études Mécen, specialised in data science and which I have the honour to manage as President.
+* ✔️ I have been playing rugby at a national level since I was 18 years old, this helped me a lot in the process of becoming a persevering and hard-working man as I had to balance the heavy workload from my studies, the performances I had to deliver on the field and my personal life.
+* ✔️ I am looking for an internship in data science.
 
 
 ## 🔭 What am I currently working on?
