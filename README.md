@@ -16,8 +16,7 @@ My name is Jean Clark, I am a 22 years old French/British economist with some st
 
 ## 🔭 What am I currently working on?
 
-I am currently expanding my Python skills with a webscraping project on housing data for the Banque of France
-
+I am currently expanding my Python skills with a webscraping project on housing data for the Banque of France. I am also working on a paper on the price dispersion in retailing firms.
 
 
 <!--
